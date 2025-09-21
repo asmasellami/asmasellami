@@ -33,9 +33,6 @@
   <a href="mailto:asma.sellami@esprit.tn" target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white" height="28" />
   </a>
-  <a href="https://github.com/asmasellami" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="28" />
-  </a>
 </p>
 
 ---
