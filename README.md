@@ -19,7 +19,7 @@
 
 🎓 I’m **Asma Sellami**, a **Software Engineering student @ ESPRIT**.  
 💡 Passionate about **software development** — from web to desktop and mobile — and building practical solutions that make a difference.  
-🌍 I enjoy working across the stack, focusing on **clean, scalable, and user-friendly applications**.  solutions**.  
+🌍 I enjoy working across the stack, focusing on **clean, scalable, and user-friendly applications**.  
 ✨ Outside of coding, I’m always exploring, learning, and turning creative ideas into reality.  
 
 ---
